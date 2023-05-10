@@ -13,7 +13,8 @@
 
 
 
-'''python
+<pre>
+<code>
 from google.colab import drive
 drive.mount('/content/drive')
 
@@ -40,7 +41,8 @@ print(text)
 
 # print(max2gram, countdict[max2gram])
 # print(Counter(baglist))
-'''
+</code>
+</pre>
 
 # 참고 링크 및 코드 개선 여부
 - 코랩 드라이브에서 txt 파일을 불러오기 까지 성공한 단계입니다.
