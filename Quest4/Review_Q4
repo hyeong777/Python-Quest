@@ -25,7 +25,8 @@
 
 3. 참고한 링크 및 ChatGPT 프롬프트 명령어가 있다면 주석으로 남겨주세요.
    
-   '''python
+   <pre>
+   <code>
       class Fish:
     def __init__(self, name, speed): # fish 클래스를 정의, 이름과 속력을 줌
         self.name = name
@@ -62,7 +63,8 @@ show_fish_movement_comprehension(fish_list)
 print("\nUsing generator:")
 show_fish_movement_generator(fish_list)
 # print(*show_fish_movement_generator(fish_list)) # 출력하면 컴프리헨션과 똑같이 나와주지만 위의 코드만 이용해서 출력하게 해야한다면 사용 불가
-   '''
+   </code>
+   </pre>
    
    - Code 에 대한 리뷰어의 Comment 를 남겨주세요
 
