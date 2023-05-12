@@ -70,7 +70,7 @@
   ```
 
 ---
-
+ ```
 # 참고 링크 및 코드 개선 여부
 리스트 컴프리헨션을 사용하여 print(),list,for문을 간결하게 축약하여 값을 출력했습니다.
 
@@ -81,5 +81,5 @@ show_fish_movement_generator(fish_list) 제너레이터 함수를 호출했을�
 2.제터레이터 객체 생성 및 할당            ex) gen = show_fish_movement_generator(fish_list)
 3.제너레이터 객체의 이터레이터 생성       ex) for i in gen : print(....)   // for문을 통해 이터레이터 생성 및 출력
 4.이터레이터 객체에 접근하여 데이터 출력
-
+ ```
 
