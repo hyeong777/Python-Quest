@@ -56,6 +56,7 @@
    show_fish_movement_generator(fish_list)
    # print(*show_fish_movement_generator(fish_list)) # 출력하면 컴프리헨션과 똑같이 나와주지만 위의 코드만 이용해서 출력하게 해야한다면 사용 불가
  ```
+ ```
    #출력 결과
    Using Comprehension:
    Nemo is swimming at 3 m/s
@@ -66,7 +67,7 @@
 
    Using generator:
    <generator object show_fish_movement_generator at 0x7f7dfe50d4d0>
-   
+  ```
 
 ---
 
