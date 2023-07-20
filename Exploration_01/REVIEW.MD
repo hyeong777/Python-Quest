@@ -1,7 +1,8 @@
 # AIFFEL Campus Online 4th Code Peer Review Templete
-- 코더 : 김형우
-- 리뷰어 : 김태원
+- 코더 : 김형우 
 
+- 리뷰어 : 김태원
+https://github.com/guineapig987/Python_Quest_KimTaeWon/tree/master/Exploration
 
 # PRT(PeerReviewTemplate)
 각 항목을 스스로 확인하고 토의하여 작성한 코드에 적용합니다.
