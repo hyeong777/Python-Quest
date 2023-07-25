@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 4th Code Peer Review Templete
-- 코더 : .
-- 리뷰어 : 본인의 이름을 작성하세요.
+- 코더 : 김형우
+- 리뷰어 : 박기용
 
 # PRT(PeerReviewTemplate)
 각 항목을 스스로 확인하고 토의하여 작성한 코드에 적용합니다.
