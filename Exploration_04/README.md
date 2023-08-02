@@ -1,4 +1,4 @@
-# EX04
+# EX04 프로젝트 : CIFAR-10 이미지 생성하기
 ---
 # Code Peer Review Templete
 
