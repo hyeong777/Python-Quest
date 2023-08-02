@@ -3,7 +3,7 @@
 # Code Peer Review Templete
 
 - 코더 : 김형우 님
-- 리뷰어 :  박동원
+- 리뷰어 :  박동원, 백기웅
 ---
 
 # PRT(PeerReviewTemplate)
