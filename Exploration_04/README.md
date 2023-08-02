@@ -1,4 +1,4 @@
-# EX03. 프로젝트: 인물 모드 문제점 찾기
+# EX04
 ---
 # Code Peer Review Templete
 
